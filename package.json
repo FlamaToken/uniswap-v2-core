@@ -1,18 +1,18 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
+  "name": "@igniswap/v2-core",
+  "description": "🎛 Core contracts for the Igniswap protocol",
   "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "homepage": "https://igniswap.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/Igniswap/igniswap-v2-core"
   },
   "keywords": [
-    "uniswap",
+    "igniswap",
     "ethereum",
     "v2",
     "core",
-    "uniswap-v2"
+    "igniswap-v2"
   ],
   "files": [
     "contracts",
