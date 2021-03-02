@@ -6,8 +6,8 @@ import './libraries/SafeMath.sol';
 contract IgniswapERC20 is IIgniswapERC20 {
     using SafeMath for uint;
 
-    string public constant name = 'Igniswap V2';
-    string public constant symbol = 'UNI-V2';
+    string public constant name = 'IgniSwap LP';
+    string public constant symbol = 'IGNI-LP';
     uint8 public constant decimals = 18;
     uint  public totalSupply;
     mapping(address => uint) public balanceOf;
