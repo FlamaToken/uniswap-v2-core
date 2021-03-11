@@ -4,6 +4,9 @@ import './interfaces/IIgniswapFactory.sol';
 import './IgniswapPair.sol';
 
 contract IgniswapFactory is IIgniswapFactory {
+    
+    bytes32 public constant INIT_CODE_PAIR_HASH = keccak256(abi.encodePacked(type(IgniswapPair).creationCode));
+
     address public feeTo;
     address public feeToSetter;
 

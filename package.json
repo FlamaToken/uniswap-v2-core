@@ -1,18 +1,17 @@
 {
   "name": "@igniswap/v2-core",
   "description": "🎛 Core contracts for the Igniswap protocol",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "homepage": "https://igniswap.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Igniswap/igniswap-v2-core"
+    "url": "https://github.com/flamatoken/igniswap-v2-core"
   },
   "keywords": [
     "igniswap",
     "ethereum",
     "v2",
-    "core",
-    "igniswap-v2"
+    "core"
   ],
   "files": [
     "contracts",
